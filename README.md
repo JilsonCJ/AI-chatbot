@@ -1,2 +1,1 @@
-# AI-chatbot
-this is AI chatbot with better GUI and other features
+This AI chatbot requires many Python libraries, but they cannot be installed automatically using the requirements.txt file. Instead, each library must be manually installed by running the commands listed in installations.txt through the Windows Command Prompt
